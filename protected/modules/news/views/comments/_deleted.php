@@ -1,0 +1,1 @@
+<div class="news_comment_deleted"><p>Коментарий удален.</p></div>
